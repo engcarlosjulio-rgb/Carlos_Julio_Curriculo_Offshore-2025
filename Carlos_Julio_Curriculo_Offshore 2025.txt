@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Currículo de Carlos Júlio Câmara do Nascimento Junior - Inspetor de Elétrica / Electrical Inspector. Experiência offshore, sistemas elétricos, automação e instrumentação.">
+<meta name="keywords" content="Electrical Inspector, Offshore, FPSO, Electrical Systems, Automation, Instrumentation, Commissioning, Maintenance, Petrobras, DNV, IEC, Oil & Gas">
+<title>Carlos Júlio – Inspetor de Elétrica / Electrical Inspector</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #222222;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #004080;
+    margin-bottom: 10px;
+}
+h1 {
+    font-size: 2rem;
+}
+h2 {
+    font-size: 1.5rem;
+    border-bottom: 2px solid #004080;
+    padding-bottom: 5px;
+}
+section {
+    margin-bottom: 25px;
+}
+.icon {
+    margin-right: 8px;
+}
+a {
+    color: #004080;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+ul li::before {
+    content: "• ";
+    color: #004080;
+    font-weight: bold;
+}
+@media (max-width: 600px) {
+    h1 { font-size: 1.5rem; }
+    h2 { font-size: 1.2rem; }
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>Carlos Júlio Câmara do Nascimento Junior</h1>
+        <h2>Inspetor de Elétrica / Electrical Inspector</h2>
+        <p>📍 Brasil – Disponível para atuação embarcada</p>
+        <p>📧 <a href="mailto:eng.carlosjulio@gmail.com">eng.carlosjulio@gmail.com</a> | 📱 +55 (21) 97268-321x</p>
+    </header>
+
+    <section>
+        <h2>🧭 Resumo Profissional</h2>
+        <p>Profissional com sólida experiência em <strong>sistemas elétricos industriais e de automação aplicados ao setor de petróleo e gás</strong>, atuando em projetos de instalação, inspeção, comissionamento e manutenção offshore. Foco em <strong>qualidade técnica, integridade operacional e conformidade com normas internacionais</strong> (IEC, DNV, NR, Petrobras).</p>
+        <p>Experiência comprovada em coordenação de atividades em campo, análise técnica, inspeção de sistemas e elaboração de relatórios de engenharia com precisão e rastreabilidade.</p>
+    </section>
+
+    <section>
+        <h2>⚙️ Principais Competências</h2>
+        <ul>
+            <li>Instalação e comissionamento de sistemas elétricos industriais</li>
+            <li>Inspeção de conformidade elétrica (IEC / DNV / Petrobras / NR-10)</li>
+            <li>Lançamento e roteamento de cabos de potência e instrumentação</li>
+            <li>Montagem e inspeção de Junction Boxes (JB), MCTs e PDAs</li>
+            <li>Testes de continuidade, isolação e sinal (4-20 mA / RTD / Termopar)</li>
+            <li>Elaboração de relatórios técnicos e As-Built Drawings</li>
+            <li>Leitura e interpretação de diagramas unifilares, P&ID e layouts</li>
+            <li>Experiência embarcada em FPSO e plantas onshore/offshore</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🏗️ Experiência Profissional</h2>
+        <p><strong>Inspetor de Elétrica – Projetos Offshore</strong></p>
+        <ul>
+            <li>Levantamentos técnicos, comissionamento e supervisão de instalações elétricas e de instrumentação.</li>
+            <li>Inspeções de qualidade, verificação de integridade de sistemas, emissão de relatórios e suporte à engenharia de campo.</li>
+            <li>Participação em projetos de reciclagem de exportação de óleo, integração de sistemas de automação e implantação de infraestruturas elétricas em unidades offshore.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🧮 Formação Acadêmica</h2>
+        <ul>
+            <li>Engenharia Elétrica – Estácio de Sá (8º período – em andamento)</li>
+            <li>Pós-graduação em Engenharia Elétrica – Estácio de Sá</li>
+            <li>Engenharia de Produção – UNIVERSO</li>
+            <li>Técnico em Eletrotécnica e Eletrônica – CETEF</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>📚 Certificações e Treinamentos</h2>
+        <ul>
+            <li>NR-10 Básico e Complementar</li>
+            <li>NR-33 / NR-35</li>
+            <li>DNV Offshore Electrical Systems</li>
+            <li>Comissionamento de sistemas de automação</li>
+            <li>Leitura e interpretação de diagramas e P&IDs</li>
+            <li>Inglês técnico para engenharia</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🌍 Disponibilidade</h2>
+        <ul>
+            <li>Atuação embarcada (Brasil / Offshore)</li>
+            <li>Disponível para viagens e regime de escala</li>
+            <li>Documentação e cursos offshore atualizados</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🔗 Currículo Online</h2>
+        <ul>
+            <li>📄 Versão em HTML – GitHub Pages (em construção)</li>
+            <li>📘 Versão em PDF para envio corporativo</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🧰 Observação Técnica</h2>
+        <p>Currículo formatado segundo padrão <strong>Petrobras / DNV / IEC</strong>, com estrutura semântica para leitura automatizada (ATS) e indexação em mecanismos de busca.</p>
+    </section>
+
+    <section>
+        <h2>💠 Palavras-chave (SEO)</h2>
+        <p>Electrical Inspector • Offshore • FPSO • Electrical Systems • Automation • Instrumentation • Commissioning • Maintenance • Petrobras • DNV • IEC • Oil & Gas</p>
+    </section>
+
+</div>
+</body>
+</html>
